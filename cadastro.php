@@ -38,7 +38,7 @@
         }
 
     } else  {
-        echo "<h3>Nenhum dado de cliente enviado.</h3>";
+        echo "<h3>Nenhum dado enviado.</h3>";
     }
     ?>
 
